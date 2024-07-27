@@ -33,3 +33,13 @@ Features
 * Copy the password: Click the "Copy Password" button to copy the generated password to the clipboard.
 * Paste the password: Paste the copied password into the desired platform or application.
 
+### Contributing
+**Contributions to Pass Forge are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.**
+
+### Demo Video:
+
+https://github.com/user-attachments/assets/e7091255-d455-4d5f-a9a2-de4c56a5a22a
+
+
+
+
