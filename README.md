@@ -1,5 +1,5 @@
 # Pass Forge
-#### Pass Forge is a Tkinter-based Python application that generates strong passwords based on user-defined contexts. It provides a simple and intuitive interface for creating secure passwords for various platforms, ensuring that each password follows specific rules and guidelines.
+### Pass Forge is a Tkinter-based Python application that generates strong passwords based on user-defined contexts. It provides a simple and intuitive interface for creating secure passwords for various platforms, ensuring that each password follows specific rules and guidelines.
 Features
 * Password Generation: Pass Forge generates strong passwords based on user-provided contexts, ensuring that each password follows specific rules and guidelines.
 * Context-Based Passwords: Users can enter a context (a word or phrase) that they want to follow in their password. The application will generate a password that incorporates this context.
