@@ -8,3 +8,29 @@ Features
 * Copy to Clipboard: The generated password can be easily copied to the clipboard with a single click, allowing users to paste it directly into the desired platform.
 * Notification: When the password is copied to the clipboard, a notification message appears, confirming the action.
 
+
+  ### Installation
+#### Clone the repository:
+
+**git clone https://github.com/your-username/pass-forge.git**
+
+Navigate to the project directory:
+bash
+cd pass-forge
+
+Install the required dependencies:
+bash
+pip install tkinter
+
+Run the application:
+bash
+python pass_forge.py
+
+Usage
+Launch the application: Run the pass_forge.py script to start the Pass Forge application.
+Select a platform: Choose the platform for which you want to generate a password from the dropdown menu.
+Enter a context: Type the context (word or phrase) you want to follow in your password. Make sure the context meets the validation criteria.
+Generate the password: Click the "Next" button to generate the password based on your selected platform and entered context.
+Copy the password: Click the "Copy Password" button to copy the generated password to the clipboard.
+Paste the password: Paste the copied password into the desired platform or application.
+
